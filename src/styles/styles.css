@@ -1,0 +1,58 @@
+body {
+    font-family: sans-serif;
+    /* margin:50px; */
+  }
+  
+  flipper {
+    max-width: 300px;
+  }
+  
+  flipper + flipper {
+    margin-top: 20px;
+  }
+  
+  .card-flip-face {
+    color: black;
+    cursor: pointer;
+    padding: 20px;
+    border-radius: 3px;
+  }
+
+  .tile{
+      margin-right: 20px;
+      margin-left: 10px;
+      padding-right: 20px;
+      padding-left: 10px;
+
+  }
+  
+  
+  
+  .card-flip-back {
+    background: orange;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  code {
+    background: black;
+    color: white;
+  }
+h3 {
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    padding: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2em;
+    height: 100px;
+    background-image: url('../images/Title.jpg');
+}
+.MovieTitle {
+    font-weight: bold;
+}
+.ng-isolate-scope {
+    color: darkorange;
+}
