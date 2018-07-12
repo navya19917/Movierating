@@ -13,11 +13,11 @@ About the application:
 
 Steps to run the Application :
 
-1.Go to https://nodejs.org/en/download/Install and click on WindowsInstaller and install Node.js in the System.
-2.Save the application at some path.
-3.Open Nodejs Commandprompt(You can go to start and search for node.js command prompt) and navigate to the path where application is saved.
-4.Type 'npm install' in the CommandPrompt (without quotes).
-5.After all libraries are install type 'npm install gulp'.
-6.Once the gulp is installed type 'gulp dev' which will open the application in browser.
+1. Go to https://nodejs.org/en/download/Install and click on WindowsInstaller and install Node.js in the System.
+2. Save the application at some path.
+3. Open Nodejs Commandprompt(You can go to start and search for node.js command prompt) and navigate to the path where application is saved.
+4. Type 'npm install' in the CommandPrompt (without quotes).
+5. After all libraries are install type 'npm install gulp'.
+6. Once the gulp is installed type 'gulp dev' which will open the application in browser.
 
 
